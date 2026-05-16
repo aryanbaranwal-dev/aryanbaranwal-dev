@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**aryanbaranwal-dev/aryanbaranwal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MCA (AI & ML) student at Galgotias University who enjoys learning through real-world projects and exploring new technologies.
 
-Here are some ideas to get you started:
+Currently, I’m focused on improving my skills in:
+- Data Structures & Algorithms
+- Python and C Programming
+- Machine Learning & AI
+- Flask and Web Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### AI Diet Recommendation System
+A Flask-based web application that provides diet recommendations using AI and machine learning concepts.
+
+### Data Structures in C
+A collection of Data Structures and Algorithm programs implemented in C for practice and problem-solving.
+
+## 🌱 Current Goals
+- Strengthen problem-solving skills
+- Build more AI/ML projects
+- Contribute consistently on GitHub
+- Prepare for internships and real-world development
+
+## 🛠 Tech Stack
+- C
+- Python
+- Flask
+- HTML/CSS
+- Git & GitHub
+
+## 📖 Learning Mindset
+I believe in learning step by step, staying consistent, and improving through hands-on projects and continuous practice.
